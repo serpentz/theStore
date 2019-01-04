@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  front_image_url: MyString
+  back_image_url: MyString
+
+two:
+  name: MyString
+  front_image_url: MyString
+  back_image_url: MyString
